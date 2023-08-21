@@ -1,0 +1,17 @@
+
+/* App.css */
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
